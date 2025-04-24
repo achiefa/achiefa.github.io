@@ -23,13 +23,13 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://username.github.io"
+url: "https://achiefa.github.io"
 
 github:
   username: achiefa # change to your GitHub username
 
 twitter:
-  username: amedeo_chifea # change to your Twitter username
+  username: ChiefaAmedeo # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -42,7 +42,7 @@ social:
     - https://github.com/achiefa # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/amedeo-chiefa-b6a6bb231/
 
 # Site Verification Settings
 webmaster_verifications:
@@ -75,7 +75,7 @@ analytics:
 
 # Page views settings
 pageviews:
-  provider: goatcounter # now only supports 'goatcounter'
+  provider: # now only supports 'goatcounter'
 
 # Prefer color scheme setting.
 #
